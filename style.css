@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#main {
+    color: red;
+    background-color: beige;
+    width: 500px;
+}
+
+.A {
+    border: 5px solid rgb(228, 25, 25);
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(37, 148, 100);
+}
